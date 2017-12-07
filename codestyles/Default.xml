@@ -1,0 +1,19 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="160" />
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+  </HCL-Terraform>
+  <JSCodeStyleSettings>
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+  </codeStyleSettings>
+</code_scheme>

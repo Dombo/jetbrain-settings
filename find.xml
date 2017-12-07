@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/audit-trail/auditor_snapshot_storage.rb [tanda-infrastructure]'" />
+    <option name="defaultScopeName" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/audit-trail/auditor_snapshot_storage.rb [tanda-infrastructure]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/audit-trail/auditor_snapshot_storage.rb [tanda-infrastructure]'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.rb</mask>
+    </recentFileMasks>
+  </component>
+</application>
