@@ -1,13 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="production" type="PLAIN_TEXT" />
-      <mapping pattern="DEPRECATE" type="PLAIN_TEXT" />
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
-      <mapping ext="shj" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="bats" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="template" type="JSON" />
+      <mapping pattern="stackEventListener.js" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
