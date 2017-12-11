@@ -4311,6 +4311,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kaminari-core-1.0.1/config" />
       </SOURCES>
     </library>
+    <library name="koala (v3.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/koala-3.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/koala-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="kounta_rest (v0.2.3@4b6f4e, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/Kounta-4b6f4e7ff3bd/bin" />
@@ -5086,6 +5095,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/myob-api-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="myob-api (v0.10.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/myob-api-0.10.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/myob-api-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="nap (v1.1.0, RVM: ruby-2.3.1) [gem]">
