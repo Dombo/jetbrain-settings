@@ -6431,6 +6431,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-route-checker-0.1.1/exe" />
       </SOURCES>
     </library>
+    <library name="rails-route-checker (v0.2.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-route-checker-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-route-checker-0.2.2/exe" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-route-checker-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-route-checker-0.2.2/exe" />
+      </SOURCES>
+    </library>
     <library name="rails_12factor (v0.0.3, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails_12factor-0.0.3/lib" />
