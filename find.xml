@@ -14,11 +14,14 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.haml</mask>
       <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
