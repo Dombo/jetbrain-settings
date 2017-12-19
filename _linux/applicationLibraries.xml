@@ -4586,6 +4586,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/it-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="j2119 (v0.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/j2119-0.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/j2119-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jasmine (v2.3.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jasmine-2.3.0/bin" />
@@ -9370,6 +9379,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/stack_master-0.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/stack_master-0.12.0/stacktemplates" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/stack_master-0.12.0/features" />
+      </SOURCES>
+    </library>
+    <library name="statelint (v0.1.4, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/statelint-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/statelint-0.1.4/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/statelint-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/statelint-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/statelint-0.1.4/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/statelint-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="statsd-instrument (v2.0.11, RVM: ruby-2.3.1) [gem]">
