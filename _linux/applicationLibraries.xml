@@ -240,6 +240,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activerecord-nulldb-adapter-0.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-session_store (v1.1.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activerecord-session_store-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activerecord-session_store-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.0.13, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-4.0.13/lib" />
