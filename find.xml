@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/common-db-pitr/common_db_point_in_time.rb [rb2cf]'" />
-    <option name="defaultScopeName" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/common-db-pitr/common_db_point_in_time.rb [rb2cf]'" />
-    <option name="SEARCH_SCOPE" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/common-db-pitr/common_db_point_in_time.rb [rb2cf]'" />
+    <option name="customScope" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/common-db-pitr/common_db_network_resources.rb [rb2cf]'" />
+    <option name="defaultScopeName" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/common-db-pitr/common_db_network_resources.rb [rb2cf]'" />
+    <option name="SEARCH_SCOPE" value="File '~/Code/TandaHQ/tanda-infrastructure/rb2cf/templates/components/common-db-pitr/common_db_network_resources.rb [rb2cf]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
