@@ -5,9 +5,10 @@
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="austin-wilshire" type="PLAIN_TEXT" />
+      <mapping pattern="employee_a_key" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
-      <mapping ext="shj" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="shj" type="PLAIN_TEXT" />
       <mapping ext="bats" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
