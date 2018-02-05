@@ -7027,6 +7027,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/omniauth-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="omniauth (v1.3.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/omniauth-1.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/omniauth-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth (v1.6.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/omniauth-1.6.1/lib" />
@@ -7262,6 +7271,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-4.3.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-4.3.7/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-4.3.7/cucumber" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v5.2.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/shoulda_macros" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/shoulda_macros" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.2.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="parallel (v1.10.0, RVM: ruby-2.3.1) [gem]">
